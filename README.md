@@ -1,2 +1,2 @@
-# schemas-opengis-net
-Python package of OGC schemas bundle at http://schemas.opengis.net
+# geoschemas
+Python package of various geospatial schema bundles
